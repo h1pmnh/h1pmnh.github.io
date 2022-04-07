@@ -1,3 +1,3 @@
 baseURL = 'https://h1pmnh.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "A developer's notes in the world of security research and bug bounty, by pmnh"
