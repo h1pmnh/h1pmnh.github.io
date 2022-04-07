@@ -107,7 +107,7 @@ iconsDir = "icons/" # without a leading forward slash
 
 # website author
 [author]
-name = "Peter M (@pmnh)"
+name = "Peter M (pmnh)"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
