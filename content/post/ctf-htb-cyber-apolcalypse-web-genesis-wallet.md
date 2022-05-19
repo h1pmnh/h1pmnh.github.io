@@ -1,7 +1,7 @@
 ---
 title: "CTF Writeup: 2022 HTB Cyber Apolcalypse Web Challenge: Genesis Wallet"
 date: 2022-05-19T15:27:19-04:00 
-description: "Article description." # Description used for search engine.
+description: "CTF Writeup: 2022 HTB Cyber Apolcalypse Web Challenge: Genesis Wallet" # Description used for search engine.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 tags:
