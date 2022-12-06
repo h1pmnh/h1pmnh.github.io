@@ -12,9 +12,9 @@ I'm a software developer, architect, author by trade, with years of experience i
 ### My Stats
 I started bug bounty as a hobby in Sep 2020. I've hacked on 3 major platforms, my profiles are linked below:
 
- * [HackerOne](https://hackerone.com/pmnh) - ~3200 rep, 7.0 signal, 23.74 impact
- * [Bugcrowd](https://bugcrowd.com/pmnh) - ~500 pts, 100% accuracy, 13 P1s
- * [Synack (SRT)](https://acropolis.synack.com/inductees/pmnh/) - level 0x05
+ * [HackerOne](https://hackerone.com/pmnh) - ~4000 rep, 7.0 signal, 23.5 impact
+ * [Bugcrowd](https://bugcrowd.com/pmnh) - ~550 pts, 100% accuracy, 15 P1s
+ * [Synack (SRT)](https://acropolis.synack.com/inductees/pmnh/) - level 0x05, top 10 globally
 
 I actively hunted on HackerOne from Sep 2020-Aug 2021. During this time, I was in the top 10 on the US leaderboard, delivering critical and high findings on numerous private and public programs. Towards the end of the year I moved to Bugcrowd, as well as joined the Synack Red Team (SRT), where I perform my primary hunting today, currently maintaining a top 5 position on the global SRT leaderboard.
 
