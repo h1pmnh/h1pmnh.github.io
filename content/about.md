@@ -26,7 +26,7 @@ This simple site captures some stories and learnings on this journey. I hope you
 This site is *not* intended for people new to bug bounty, but instead targeting those looking to improve their craft, read more technical articles, and generally "talk shop". In most cases I won't be explaining commonly Google-able terms and suggest you rely on the many great resources around the web for bug bounty basics.
 
 ### How Do You Pronounce `pmnh`?
-You can simply say each letter :)
+You can simply say each letter :smile:
 
 ### Feedback / Questions?
-Feel free to send any feebdack my way on Twitter, I can be reached at [@pmnh_](https://twitter.com/pmnh_) - unfortunately my social media presence doesn't match my bug bounty platform names, sorry for any confusion :)
+Feel free to send any feebdack my way on Twitter, I can be reached at [@pmnh_](https://twitter.com/pmnh_) - unfortunately my social media presence doesn't match my bug bounty platform names, sorry for any confusion :smile:
