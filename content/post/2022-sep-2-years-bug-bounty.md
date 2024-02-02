@@ -2,7 +2,7 @@
 title: "Reflecting on 2 Years of Bug Bounty" # Title of the blog post.
 date: 2022-09-27T10:21:50-04:00 # Date of post creation.
 description: "Last week I celebrated my first bounty on HackerOne, awarded 2 years ago - read about what I've learned since then!" # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
@@ -75,7 +75,7 @@ Some final tips for the "getting started" part of my journey:
 
  * Start with types of bugs that you understand based on your experience level. IDORs are usually very easy to explain and understand, as well as hunt for, even if you don't have a technical background.
  * Understand how a browser works and the basics of HTML and Javascript if you are going to be hunting web type bugs (XSS in particular), otherwise you will get frustrated blindly copy/pasting payloads.
- * Understand the purpose of VDPs and consider avoiding them. I know this is controversial. VDPs can be a great way for new people to find vulns in the real world, but also can give hunters a false sense of confidence. Make no mistake - paid programs are _much_ harder than VDPs because there is a financial incentive for people to hunt them. 
+ * Understand the purpose of VDPs and consider avoiding them. I know this is controversial. VDPs can be a great way for new people to find vulns in the real world, but also can give hunters a false sense of confidence. Make no mistake - paid programs are _much_ harder than VDPs because there is a financial incentive for people to hunt them.
  * Don't worry about points. They don't really matter.
  * Learn the art of patience and respect with programs. Don't give bug bounty a bad reputation by trying to bully, swear, or behave unprofessionally.
  * Hunt a program you're interested in. Nothing is worse than trying to stay motivated on a program that you don't understand or don't care about securing.
@@ -109,7 +109,7 @@ Hopefully this was an interesting read about the start of my bug bounty journey 
 
 A few closing thoughts:
 
- * Don't focus on finding that magic private program. Although private programs which have been very lightly tested exist, they are very very rare on the major platforms. 
+ * Don't focus on finding that magic private program. Although private programs which have been very lightly tested exist, they are very very rare on the major platforms.
  * Don't let money be the motivator for bug bounty. I know this is probably controversial and of course bug bounty has made a huge difference in peoples' lives across the world - *however* if money is your primary motivator it will add stress, disappointment, and anxiety that will absolutely not help you focus. Consider bug bounty an amazing hobby that happens to pay money once you know what you're doing, and leave it that way for a while - maybe forever.
  * Don't feel you need to understand every type of bug to be successful. Honestly, there are a bunch of types of bugs I've read about that I _never_ look for (HTTP Response Splitting - I'm looking at you :eyes:). To me, the effort to get up to speed on these types of bugs is not worth the investment when I can instead get better at the bugs I already know.
  * Don't stop learning. Challenge yourself! As soon as a hobby gets boring or repetitive, it's now become work. Try something new, pick up a challenging program that you think might be impossible. You will be surprised!
